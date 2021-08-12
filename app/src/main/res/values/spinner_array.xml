@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="search_mode">
+        <item>일반전</item>
+        <item>공식전</item>
+    </string-array>
+</resources>
